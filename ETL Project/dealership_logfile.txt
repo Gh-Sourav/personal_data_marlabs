@@ -1,0 +1,7 @@
+10-45-42-Jul-26-22 , ETL job started...n10-45-42-Jul-26-22 , Extract phase startedn10-48-13-Jul-26-22 , ETL job started...n10-48-13-Jul-26-22 , 
+Extract phase startedn10-49-36-Jul-26-22 , ETL job started...n10-49-36-Jul-26-22 , 
+Extract phase startedn11-02-48-Jul-26-22 , ETL job started...n11-02-48-Jul-26-22 , 
+Extract phase startedn11-06-27-Jul-26-22 , ETL job started...n11-06-27-Jul-26-22 , 
+Extract phase startedn11-07-31-Jul-26-22 , ETL job started...n11-07-31-Jul-26-22 , 
+Extract phase startedn11-08-10-Jul-26-22 , ETL job started...n11-08-10-Jul-26-22 ,
+ Extract phase startedn11-11-14-Jul-26-22 , ETL job started...n11-11-14-Jul-26-22 , Extract phase startedn11-24-43-Jul-26-22 , ETL job started...n11-24-43-Jul-26-22 , Extract phase startedn11-28-12-Jul-26-22 , ETL job started...n11-28-12-Jul-26-22 , Extract phase startedn
